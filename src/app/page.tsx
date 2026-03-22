@@ -7,7 +7,7 @@ export default function Home() {
         <h1>Meu Currículo & Portfólio</h1>
         <p>
           Bem-vindo! Aqui está um site de currículo com um mini-projeto: o Jogo da Forca.
-          Navegue para testar suas habilidades de adivinhação.
+          Navegue para testar suas habilidades de adivinhação. (Este projeto foi realizado com o auxilio da ferramenta de layout do Figma, e o código escrito por mim, utilizando Next.js, React e TypeScript)
         </p>
         <Link href="/forca" className="btn">
           Ir para Jogo da Forca
